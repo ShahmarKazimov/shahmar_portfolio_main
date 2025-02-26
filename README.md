@@ -9,7 +9,6 @@ Shahmar Kazimov is a Frontend Developer specializing in React and JavaScript. He
 <br>
 Github Profile Link : <a href="https://github.com/ShahmarKazimov">Github</a><br>
 Linkedin Profile Link : <a href="https://www.linkedin.com/in/shahmar-kazimov">Linkedin</a><br>
-Instagram Profile Link : <a href="https://www.instagram.com/shahmar_kazimov">Instagram</a>
 <br>
 This website designed by Shahmar Kazimov.
 
